@@ -1,0 +1,30 @@
+_repo: The-Alien-Invasion_47043
+contributor:
+  contributor:
+    agent_name: Bedford, R. C.
+    gutenberg_agent_id: '44105'
+    url: http://www.gutenberg.org/2009/agents/44105
+  creator:
+    editor:
+      agent_name: Gibbins, H. de B.
+      gutenberg_agent_id: '44106'
+      url: http://www.gutenberg.org/2009/agents/44106
+creator:
+  author:
+    agent_name: Wilkins, W. H. (William Henry)
+    alias: Wilkins, William Henry
+    birthdate: 1860
+    deathdate: 1905
+    gutenberg_agent_id: '2026'
+    url: http://www.gutenberg.org/2009/agents/2026
+description: ''
+gutenberg_issued: '2014-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Alien Invasion
+url: http://www.gutenberg.org/ebooks/47043
