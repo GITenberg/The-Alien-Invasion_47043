@@ -1,4 +1,5 @@
 _repo: The-Alien-Invasion_47043
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Bedford, R. C.
@@ -9,6 +10,9 @@ contributor:
       agent_name: Gibbins, H. de B.
       gutenberg_agent_id: '44106'
       url: http://www.gutenberg.org/2009/agents/44106
+covers:
+- cover_type: archival
+  image_path: 47043-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Wilkins, W. H. (William Henry)
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '2026'
     url: http://www.gutenberg.org/2009/agents/2026
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47043#The-Alien-Invasion
 gutenberg_issued: '2014-10-04'
 gutenberg_type: Text
 identifiers:
